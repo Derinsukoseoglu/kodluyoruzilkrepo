@@ -16,3 +16,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
 
+# Resim Eklediğimizde Böyle Görünüyor
+
+![yükleme başarısız oldu :(](https://github.com/Derinsukoseoglu/kodluyoruzilkrepo/blob/main/2022-09-19.png)
+
